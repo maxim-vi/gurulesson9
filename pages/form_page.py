@@ -1,7 +1,7 @@
 import os
 
 from selene import browser, by, have
-from gurulesson9.sources import resources
+from sources import resources
 from dataclasses import dataclass
 
 @dataclass

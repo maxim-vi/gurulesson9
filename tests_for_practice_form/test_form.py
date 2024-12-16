@@ -1,5 +1,4 @@
-from gurulesson9.pages.form_page import FormPage
-from gurulesson9.pages.form_page import FormPage
+from pages.form_page import FormPage
 
 
 def test_practice_form():
